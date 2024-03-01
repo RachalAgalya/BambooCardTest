@@ -2,7 +2,7 @@
 
 # Description
 
-    Bamboo Card project was developed as part of Developer code test using ASP.NET Core to implement a RESTful API to retrieve
+    Bamboo Card project was developed as part of Developer coding test using ASP.NET Core to implement a RESTful API to retrieve
     the details of the best n stories from the Hacker News API, as determined by their score, where 'n' is specified by the
     caller to the API.
 
